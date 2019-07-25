@@ -60,6 +60,7 @@ while True:
     elif z[1] == 0:
         print('lampu mati')
         lampuoff(lampupin)
+        
   #      on(kipaspin)
    # elif a == 1 and b== 1 and c == 1:
     #    print('kipas nyala')
